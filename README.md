@@ -15,7 +15,7 @@ To open up the app menu, right click on the taskbar.
 - Linux Debian / Pi OS / Ubuntu / other Debian based distros
 - X11
 - x86, x64, armhf or aarch64 architecture
-- Low end hardware
+- Low end hardware friendly
 
 # Screenshot
 ![ULDE Desktop](uldescreenshot.png)
