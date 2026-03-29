@@ -16,6 +16,10 @@ To open up the app menu, right click on the taskbar.
 - X11
 - x86, x64, armhf or aarch64 architecture
 - Low end hardware friendly
-
+# To install:
+1. Install LightDM by "sudo apt install lightdm"
+2. Clone this repo by "git clone https://github.com/Xelron161/ULDE"
+3. Install ULDE by "sudo dpkg -i ULDE/ulde.deb"
+4. Reboot and you should be ready to go!
 # Screenshot
 ![ULDE Desktop](uldescreenshot.png)
