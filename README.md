@@ -8,6 +8,7 @@ It uses:
 - Openbox
 - Tint2
 - NM-Applet
+- jgmenu
 
 To open up the app menu, right click on the taskbar.
 
@@ -20,6 +21,7 @@ To open up the app menu, right click on the taskbar.
 1. Install LightDM by "sudo apt install lightdm"
 2. Clone this repo by "git clone https://github.com/Xelron161/ULDE"
 3. Install ULDE by "sudo dpkg -i ULDE/ulde.deb"
-4. Reboot and you should be ready to go!
+4. Install depends with "sudo apt --fix-broken install"
+5. Reboot and you should be ready to go!
 # Screenshot
 ![ULDE Desktop](uldescreenshot.png)
